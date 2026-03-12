@@ -1,0 +1,24 @@
+{
+  "name": "cs3200-assignment5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshYheni/CS3200-Assignment5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdarshYheni/CS3200-Assignment5/issues"
+  },
+  "homepage": "https://github.com/AdarshYheni/CS3200-Assignment5#readme",
+  "dependencies": {
+    "mongodb": "^7.1.0"
+  }
+}
